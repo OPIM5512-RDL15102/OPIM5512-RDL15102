@@ -1,16 +1,36 @@
-## Hi there 👋
+## 🙂 Hi, I'm Ray Larson
 
-<!--
-**OPIM5512-RDL15102/OPIM5512-RDL15102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Performance Analyst @ New England Asset Management
+📚 M.S. Financial Technology @ University of Connecticut
+🎓 B.S. Finance, University of Connecticut
+📊 Investment Performance | Data Management | Predictive Modeling
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ‼️ About Me
+
+Performance Analyst with 8+ years in investment performance, reconciliation, data management, and client reporting. I use Python, SQL, and R to automate workflows and build new analytics that go beyond standard offerings.
+
+---
+
+### 🧠 Technical Skills
+
+💻 **Programming & Statistics:** Python (pandas, NumPy, scikit-learn), R
+🗄️ **Data & Querying:** SQL, Excel (advanced) / VBA
+📈 **Performance & Attribution:** Performance measurement and attribution systems, benchmark analysis
+💰 **Domain:** Investment performance, reconciliation, client reporting
+
+---
+
+### 🎯 Interests
+
+📉 **Financial markets** — backtesting strategies, live market data pipelines, predictive models for returns and risk
+🏈 **Sports analytics** — forecasting game and player outcomes, finding edges in performance data
+🤖 **Automation** — building agents that ingest data, score a model, and act on the output
+
+---
+
+### 📫 Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raymond-larson-430352136/)
+- ✉️ Raymond.Larson@uconn.edu
